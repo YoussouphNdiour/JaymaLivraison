@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "283159834878",
+    "project_id": "md-global-services",
+    "storage_bucket": "md-global-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283159834878:android:f398b50e43f83601b235af",
+        "android_client_info": {
+          "package_name": "sn.jayma.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqKHEPsf9BzRvLAFTVHPuaT8usA7DFkKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283159834878-0iih6e49j5bq6ohvb1t501kc5d5meq03.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sn.jayma.applicationclient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283159834878:android:39fa1d7cd0a4bfbcb235af",
+        "android_client_info": {
+          "package_name": "sn.jayma.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqKHEPsf9BzRvLAFTVHPuaT8usA7DFkKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283159834878-0iih6e49j5bq6ohvb1t501kc5d5meq03.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sn.jayma.applicationclient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283159834878:android:d91572369e70d34ab235af",
+        "android_client_info": {
+          "package_name": "sn.jayma.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqKHEPsf9BzRvLAFTVHPuaT8usA7DFkKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283159834878-0iih6e49j5bq6ohvb1t501kc5d5meq03.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sn.jayma.applicationclient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
