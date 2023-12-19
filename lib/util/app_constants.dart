@@ -5,7 +5,7 @@ class AppConstants {
   static const String APP_NAME = 'Jayma - Gade Gui Livraison';
   static const double APP_VERSION = 2.0;
 
-  static const String BASE_URL = 'https://admin.jayma.mdglobalservices.sn';
+  static const String BASE_URL = 'https://api.jaymagadegui.sn';
   static const String CONFIG_URI = '/api/v1/config';
   static const String FORGET_PASSWORD_URI = '/api/v1/auth/delivery-man/forgot-password';
   static const String VERIFY_TOKEN_URI = '/api/v1/auth/delivery-man/verify-token';
